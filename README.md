@@ -1,4 +1,4 @@
-پپ
+
 ```markdown
 # Image Filtering Techniques
 
